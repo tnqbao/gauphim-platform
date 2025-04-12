@@ -1,0 +1,6 @@
+[submodule "gauphimv3"]
+	path = gauphimv3
+	url = https://github.com/tnqbao/gauphimv3.git
+[submodule "gau_phim_backend"]
+	path = gau_phim_backend
+	url = https://github.com/tnqbao/gau_phim_backend
