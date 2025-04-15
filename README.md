@@ -23,7 +23,7 @@ Truy cập nền tảng xem phim trực tuyến tại:
 
 ## 2. Cập nhật các submodules (frontend & backend):
 ```bash
-  git submodule update --init --recursive
+  git submodule update --init --recursive --remote
 ```
 
 ## 3. Hoặc cập nhật riêng từng phần:
